@@ -284,10 +284,10 @@ def usage2():
 def usage3():
     console = Console()
     MARKDOWN="""
-    Programmer : Dr  SHINE
-    Made for : Palestine
-    Instagram : @ SHINE.046
-    Tool Information : I Was Specially Made To Destroy Islam  Haters
+    Programmer : SHINE
+    Made for : TEAM SYNC
+    Instagram : @losinguh
+    Tool Information : GOD TOOL FROM TEAM SYNC
 """
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")

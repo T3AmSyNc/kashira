@@ -6,11 +6,11 @@ Stongest Server 4ttacks from TEAM SYNC LEADER
 
 ## installing
 
-1 . <code> pkg install python </code>
-2 . <code> git clone https://github.com/T3AmSyNc/kashira.git</code>
-3 . <code> cd  kashira </code> 
-4 . <code> pip install -r installing.txt </code>
-5 . <code> python shineddos.py -h  </code>
+- 1 . <code> pkg install python </code>
+- 2 . <code> git clone https://github.com/T3AmSyNc/kashira.git</code>
+- 3 . <code> cd  kashira </code> 
+- 4 . <code> pip install -r installing.txt </code>
+- 5 . <code> python shineddos.py -h  </code>
 
 
 

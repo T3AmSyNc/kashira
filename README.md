@@ -1,31 +1,33 @@
 #  SHINE DDOS
 
-DDOS Strong Tool To Stop Servers And Sites
+Stongest Server 4ttacks from TEAM SYNC LEADER 
 
 
 
 ## installing
 
-- 1 . <code> pkg install python </code>
-- 2 . <code> git clone https://github.com/T3AmSyNc/kashira.git</code>
-- 3 . <code> cd  SHINE-DDOS </code> 
-- 4 . <code> pip install -r installing.txt </code>
-- 5 . <code> python shineddos.py -h  </code>
+1 . <code> pkg install python </code>
+2 . <code> git clone https://github.com/T3AmSyNc/kashira.git</code>
+3 . <code> cd  kashira </code> 
+4 . <code> pip install -r installing.txt </code>
+5 . <code> python shineddos.py -h  </code>
 
 
 
 
 ### Command information:
-    الاستخدام :
-$ <code>python  shineddos.py [-i] [-p] [-l]    </code>     
+    Use:
+    
+    $ <code>python  shineddos.py [-i] [-p] [-l]    </code>     
 
-│         -h : للمساعده                             
-│         -i : اي بي السيرفر                            
-│         -p : البورت المراد استهدافه                          
-│         -l : عدد مستويات الهجوم                
-│         -f : ال ايبي الزائف اختياري                              
-│         -d : اخفاء وتقليل الرسائل المنبثقه                         
- مثال :                                        
-<code> python  shineddos.py -i 12.345.678.90 -p 80 -l  3 </code>
+│         -h : HELP                             
+│         -i : Ip Server                          
+│         -p : T4rget Port                        
+│         -l : Att4ck level                
+│         -f : For pseudo-IP optional                           
+│         -d : Hide and reduce pop-up messages                         
+ Example:
+ 
+ <code> python  shineddos.py -i 12.345.678.90 -p 80 -l  3 </code>
 
 

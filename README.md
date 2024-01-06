@@ -18,7 +18,7 @@ Stongest Server 4ttacks from TEAM SYNC LEADER
 ### Command information:
     Use:
     
-    $ <code>python  shineddos.py [-i] [-p] [-l]    </code>     
+    $ python  shineddos.py [-i] [-p] [-l]     
 
 │         -h : HELP                             
 │         -i : Ip Server                          

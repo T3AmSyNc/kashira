@@ -241,7 +241,7 @@ def dos_3():
 def usage():
     console = Console()
     MARKDOWN=("""
-         	     SHINE DDOS ATTACK            """)
+         	     TEAM SYNC DDOS ATTACK            """)
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")   
     
@@ -273,7 +273,7 @@ def usage2():
     console = Console()
     MARKDOWN2="""
     
-                       ALLAH HU AKBAR
+                	TEAM SYNC ON TOP BABY
     """
     md = Markdown(MARKDOWN2)
     console.print(md,style="bold green")

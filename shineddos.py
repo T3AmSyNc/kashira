@@ -252,7 +252,7 @@ def usage1():
     console = Console()
     MARKDOWN="""
     		
-	usage : python  SHINEDDOS.py [-i] [-p] [-l]
+	usage : python  shineddos.py [-i] [-p] [-l]
         	-h : help
         	-i : server ip
         	-p : port server 
@@ -261,7 +261,7 @@ def usage1():
             -d : Hide message
             	Best lvl =3
 	example :
-	    python  SHINEDDOS.py -i 12.345.678 -p 80 -l 3"""
+	    python  shineddos.py -i 12.345.678 -p 80 -l 3"""
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")
     #sys.exit()
